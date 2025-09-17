@@ -65,7 +65,7 @@ The analysis uses three key datasets. These datasets were imported into **SQL Se
 
 ### **Step 1 – Load Data into SQL Server**
 1. Create a new database named `ProductAnalytics`.
-2.Import CSV files into their respective tables using **SQL Server Management Studio (SSMS)**.
+2. Import CSV files into their respective tables using **SQL Server Management Studio (SSMS)**.
 3. Written a SQL query to load the desired data into power BI.
 
 ### **Step 2 – Connect Power BI to SQL Server**
